@@ -1,5 +1,5 @@
 # Arrays
-<hr style="width:200; background-color: blue;">
+<hr style="width:200; background-color: red;">
 package searching_array;
 
 public class SearchingArray_caused_ArrayIndexOutOfBoundsException {
