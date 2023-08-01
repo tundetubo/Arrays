@@ -18,3 +18,12 @@ public class SearchingArray_caused_ArrayIndexOutOfBoundsException {
 	 }
 	}	 
 }
+
+<div style="text-align: center">
+
+    <a style="padding:10px; "><img src="https://i.ibb.co/bPLzh61/circle-facebook.png" alt="Facebook" title="Facebook" style="width:32px; border:0; text-align: center;" ></a>  
+    <a style="padding:10px; "><img src="https://i.ibb.co/sRH7TK2/circle-twitter.png" alt="twitter" style="width:32px; border:0;" ></a>
+    <a style="padding:10px; "><img src="https://i.ibb.co/VQ9nCv3/circle-youtube.png" alt="youtube" style="width:32px; border:0;" ></a>
+    <a style="padding:10px; "><img src="https://i.ibb.co/K5wbWBS/circle-linkedin.png" alt="linkedin" style="width:32px; border:0;" ></a> 
+    <a style="padding:10px; "><img src="https://i.ibb.co/x8G1NMz/circle-instagram.png" alt="instagram" style="width:32px; border:0;" ></a>
+ </div>
