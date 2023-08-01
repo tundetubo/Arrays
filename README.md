@@ -2,7 +2,10 @@
 <hr style="width:200; background-color: blue;">
 package searching_array;
 
-public class SearchingArray_caused_ArrayIndexOutOfBoundsException {
+ <ul>
+<li>home</li>
+
+ </ul>    public class SearchingArray_caused_ArrayIndexOutOfBoundsException {
 	
 	static int []intNumbers = {1, 2, 3};
 
