@@ -19,6 +19,14 @@ public class SearchingArray_caused_ArrayIndexOutOfBoundsException {
 	}	 
 }
 
+<div class="footer">
+  <p>Terms and conditions</p>
+  <p>License agreement</p>
+  <p>Privacy policy</p>
+  <p>Cookies policy</p>
+  <div class="lineHorizontal"></div>
+  <p>Tiberus 2023</p>
+
 <div style="text-align: center">
 
     <a style="padding:10px; "><img src="https://i.ibb.co/bPLzh61/circle-facebook.png" alt="Facebook" title="Facebook" style="width:32px; border:0; text-align: center;" ></a>  
@@ -27,3 +35,4 @@ public class SearchingArray_caused_ArrayIndexOutOfBoundsException {
     <a style="padding:10px; "><img src="https://i.ibb.co/K5wbWBS/circle-linkedin.png" alt="linkedin" style="width:32px; border:0;" ></a> 
     <a style="padding:10px; "><img src="https://i.ibb.co/x8G1NMz/circle-instagram.png" alt="instagram" style="width:32px; border:0;" ></a>
  </div>
+</div>
