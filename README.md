@@ -25,7 +25,7 @@ public class SearchingArray_caused_ArrayIndexOutOfBoundsException {
   <p>Privacy policy</p>
   <p>Cookies policy</p>
   <hr style="width:200; background-color: blue;">
-  <p style="color:red;">Tiberus 2023</p>
+  <p style="color:blue;">Tiberus 2023</p>
 
 <div style="text-align: center">
 
