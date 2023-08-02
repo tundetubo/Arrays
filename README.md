@@ -24,12 +24,12 @@
 }
 
 <div class="footer">
-  <p>Terms and conditions</p>
+ 
   <p>License agreement</p>
   <p>Privacy policy</p>
   <p>Cookies policy</p>
   <hr style="width:200; background-color: blue;">
-  <p style="color:blue;">Tiberus 2023</p>
+   <p>Terms and conditions</p><p style="color:blue;">Tiberus 2023</p>
 
 <div style="text-align: center">
 
