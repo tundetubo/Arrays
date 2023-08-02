@@ -1,4 +1,6 @@
 # Arrays
+
+<i class="fa-solid fa-house"></i>
 <hr style="width:200; background-color: blue;">
 package searching_array;
 
