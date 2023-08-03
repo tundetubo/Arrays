@@ -2,8 +2,8 @@
 
  <ul style="list-style-type: none; margin: 0; padding: 0; ">
   <li style="display: inline;"><a href="https://tundetubo.github.io"><img src="home.png"/></a></li>
-  <li style="display: inline;"><a href="#"><a><img src="about-us.png"/></a></li>
-  <li style="display: inline;"><a href="#"><a><img src="email.png"/></a></li>
+  <li style="display: inline;"><a href="#"><img src="about-us.png"/></a></li>
+  <li style="display: inline;"><a href="#"><img src="email.png"/></a></li>
 </ul> 
 
 <hr style="width:200; background-color: blue;">
