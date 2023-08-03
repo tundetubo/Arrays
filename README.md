@@ -4,6 +4,9 @@
   <li style="display: inline;"><a href="https://tundetubo.github.io"><img src="home.png" alt="home-page" style="width:40px; height:40px;"/></a></li>
   <li style="display: inline;"><a href="#"><img src="about-us.png" alt="about-us" style="width:40px; height:40px;"/></a></li>
   <li style="display: inline;"><a href="mailto:tunde.tubo@gmail.com"><img src="email.png" alt="contact-us" style="width:40px; height:40px;"/></a></li>
+<li style="display: inline;"><a href="#"><img src="https://i.ibb.co/VQ9nCv3/circle-youtube.png" alt="youtube" style="width:40px; height:40px; border:0; visibility:visible;" ></a></li>
+<li style="display: inline;"><a href="#"><img src="https://i.ibb.co/x8G1NMz/circle-instagram.png" alt="instagram" style="width:40px; height:40px; border:0; visibility: hidden;" ></a></li>
+<li style="display: inline;"><a href="#"><img src="https://i.ibb.co/K5wbWBS/circle-linkedin.png" alt="linkedin" style="width:40px; height:40px; border:0; visibility: hidden;" ></a></li>
 </ul> 
 
 <hr style="width:200; background-color: blue;">
