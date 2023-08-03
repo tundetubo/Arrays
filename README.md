@@ -31,11 +31,13 @@
   
   <hr style="width:200; background-color: blue;">
 
- <div>
+ <div style="visibility:hidden;">
    <p>Terms and conditions</p>
    <p>License agreement</p>
    <p>Privacy policy</p>
    <p>Cookies policy</p>
+</div>
+<div>
    <p style="color:blue;">Tiberus 2023</p>
  </div>
  <div style="text-align: center">
