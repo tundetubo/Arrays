@@ -3,7 +3,7 @@
  <ul style="list-style-type: none; margin: 0; padding: 0; ">
   <li style="display: inline;"><a href="https://tundetubo.github.io"><img src="home.png"/></a></li>
   <li style="display: inline;"><a href="#"></a></li>
-  <li style="display: inline;"><a href="#">About</a></li>
+  <li style="display: inline;"><a href="#"></a><img src="email.png"/></a></li>
   <li style="display: inline;"><a href="#"></a><img src="email.png"/></li>
 </ul> 
 
