@@ -1,9 +1,9 @@
 # Arrays
 
  <ul style="list-style-type: none; margin: 0; padding: 0; ">
-  <li style="display: inline;"><a href="https://tundetubo.github.io"><img src="home.png"/></a></li>
-  <li style="display: inline;"><a href="#"><img src="about-us.png"/></a></li>
-  <li style="display: inline;"><a href="#"><img src="email.png"/></a></li>
+  <li style="display: inline;"><a href="https://tundetubo.github.io"><img src="home.png" alt="home-page" style="width:40px; height:40px;"/></a></li>
+  <li style="display: inline;"><a href="#"><img src="about-us.png" alt="about-us" style="width:40px; height:40px;"/></a></li>
+  <li style="display: inline;"><a href="mailto:tunde.tubo@gmail.com"><img src="email.png" alt="contact-us" style="width:40px; height:40px;"/></a></li>
 </ul> 
 
 <hr style="width:200; background-color: blue;">
