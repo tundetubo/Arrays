@@ -31,16 +31,16 @@
   
   <hr style="width:200; background-color: blue;">
 
- <div style="visibility:hidden;">
+ <div>
+   <p style="color:blue;">Tiberus 2023</p>
+</div>
+<div style="visibility:hidden;">
    <p>Terms and conditions</p>
    <p>License agreement</p>
    <p>Privacy policy</p>
    <p>Cookies policy</p>
 </div>
-<div>
-   <p style="color:blue;">Tiberus 2023</p>
- </div>
- <div style="text-align: center">
+<div style="text-align: center">
 
     <a style="padding:10px; "><img src="https://i.ibb.co/bPLzh61/circle-facebook.png" alt="Facebook" title="Facebook" style="width:32px; border:0; text-align: center;" ></a>  
     <a style="padding:10px; "><img src="https://i.ibb.co/sRH7TK2/circle-twitter.png" alt="twitter" style="width:32px; border:0;" ></a>
